@@ -71,3 +71,4 @@ ENV/
 .idea/workspace.xml
 /ch1/images/
 /ch1/make_github_gist.py
+/ch1/client_secret*
